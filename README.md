@@ -8,4 +8,4 @@ i. on the shell, run the code:
   python3 manage.py createsuperuser
 ii. then set admin username and password (email can be bypassed)
 iii. run the django application, log in to admin site http://localhost:8000/admin/
-iv. on the admin site, admin can do all the task as mentioned on the desctiption of the app.
+iv. on the admin site, admin can do all the task as mentioned on the description of the app.
